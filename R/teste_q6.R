@@ -4,7 +4,7 @@
 "yago_menezes2011@hotmail.com"
 #==============================
 
-dados_co2 <- read_csv("dados/brutos/dados_co2.csv")
+dados_co2 <- read_csv("atividade/dados/brutos/dados_co2.csv")
 
 co2_tidy <- dados_co2 %>%
   pivot_longer(
