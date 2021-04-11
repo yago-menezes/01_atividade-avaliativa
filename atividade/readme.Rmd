@@ -193,8 +193,6 @@ tabela_tibble <- tribble(
 
 
 
-Em seguida salvei na pasta tidy com o nome tibble.csv
-
 **(b)** A variável _nome_ é uma variável qualitativa nominal </br>
 A variável _altura_ é uma variável quantitativa contínua </br>
 A variável _peso_ é uma variável quantitativa contínua 
