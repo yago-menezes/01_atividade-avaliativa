@@ -1,6 +1,6 @@
 ---
 title: "Atividade Avaliativa I"
-author: "Yago da Silva Menezes </br>"
+author: "Yago da Silva Menezes, Tiago dos Santos Alves e Rosenilda Pereira Barreto </br>"
 date: "Introdução a Estatistica 2020.1"
 output: github_document
 ---

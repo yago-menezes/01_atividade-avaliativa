@@ -1,6 +1,7 @@
 Atividade Avaliativa I
 ================
-Yago da Silva Menezes </br>
+Yago da Silva Menezes, Tiago dos Santos Alves e Rosenilda Pereira
+Barreto </br>
 Introdução a Estatistica 2020.1
 
 ------------------------------------------------------------------------
